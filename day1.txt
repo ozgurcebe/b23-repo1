@@ -1,1 +1,4 @@
 B23 is learning git
+
+we just made our first commit
+yay
